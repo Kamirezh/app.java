@@ -1,2 +1,2 @@
-# Project exclude paths
-/out/
+#ignoring intelliJ idea folder
+.idea
